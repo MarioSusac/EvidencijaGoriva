@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="baza.xslt"?>
+<document>
+	<unos>
+		<datum>24.01.2020</datum>
+		<km>755</km>
+		<lit>56.99</lit>
+	</unos>
+	<unos>
+		<datum>29.02.2020</datum>
+		<km>333</km>
+		<lit>28.13</lit>
+	</unos>
+	<unos>
+		<datum>01.04.2020</datum>
+		<km>1045</km>
+		<lit>59.40</lit>
+	</unos>
+	<unos>
+		<datum>15.05.2020.</datum>
+		<km>613</km>
+		<lit>48.17</lit>
+	</unos>
+	<unos>
+		<datum>25.05.2020.</datum>
+		<km>787</km>
+		<lit>57.33</lit>
+	</unos>
+</document>
