@@ -5,6 +5,9 @@ Izradio:
 Mario Sušac
 (za potrebe predmeta "XML programiranje")
 
+Datum izrade: 19.05.2020.
+Zadnja verzija: 25.05.2020.
+
 - Projekt predstavlja web stranicu za evidenciju točenja goriva.
 - Za pokretanje je potreban "Apache server"
 - Projekt se sastoji od 3 dokumenta:
