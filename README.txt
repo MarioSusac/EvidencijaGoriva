@@ -17,7 +17,7 @@ YouTube demonstracija korištenja:
 https://youtu.be/tRA4GIsO6es
 
 GitHub link:
-...........................
+https://github.com/MarioSusac/EvidencijaGoriva
 
 On-line verzija stranice:
 http://www.adrijela.com/EG/forma.php
